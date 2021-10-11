@@ -1,8 +1,8 @@
 
-#### 👨‍💻 Sobre mim
-- Atuo como desenvolvedor web full-stack.
-- Também possuo conhecimento em Mobile, DevOps e Banco de Dados.
-- Comecei a programar em 2010 e nunca parei :)
+#### 👨‍💻 About me
+- Currently working as full stack web developer.
+- Knowledge in cross-platform mobile development, CI/CD, databases and linux-based servers.
+- Creating code since 2010 :)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/phnrq/">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-#### 🚀 Habilidades principais
+#### 🚀 Main skills
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -32,7 +32,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 
-#### :telescope: Também conheço...
+#### :telescope: Experienced
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
