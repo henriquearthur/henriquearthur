@@ -1,6 +1,6 @@
 
 #### 👨‍💻 About me
-- Currently working as a Software Architect.
+- Currently working as a Software Architect and Tech Lead.
 - Knowledge in web development, cross-platform mobile development, DevOps, CI/CD, databases, linux-based servers, among other interesting things.
 - Creating code since 2010 :)
 
